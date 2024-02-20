@@ -1,10 +1,10 @@
-﻿Replicate,Genotype
+Replicate,Strain
 1,WT
 2,WT
 3,WT
-1,LiaF^
-2,LiaF^
-3,LiaF^
-1,LiaR^
-2,LiaR^
-3,LiaR^
+1,Delta-liaF
+2,Delta-liaF
+3,Delta-liaF
+1,Delta-liaR
+2,Delta-liaR
+3,Delta-liaR

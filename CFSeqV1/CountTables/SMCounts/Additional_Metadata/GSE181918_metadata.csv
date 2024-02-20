@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+2022/01/19,GSE181918,"Fosfomycin and the intermediate metabolites PEP and GA-3P effect on Stenotrophomonas maltophilia transcriptome","Transcriptomic analysis of S. maltophilia D457 after one-hour induction with the antibiotic fosfomycin, the intermediate metabolites phosphoenolpyruvate or glyceraldehyde-3-phosphate",D457,LB Broth,"fosfomycin,PEP,GA-3P",NA,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE181918

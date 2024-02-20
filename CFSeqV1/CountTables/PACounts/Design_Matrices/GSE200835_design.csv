@@ -1,0 +1,13 @@
+Replicate,Treatment
+1,control
+2,control
+3,control
+1,IPTG
+2,IPTG
+3,IPTG
+1,L-arabinose
+2,L-arabinose
+3,L-arabinose
+1,L-arabinose+IPTG
+2,L-arabinose+IPTG
+3,L-arabinose+IPTG

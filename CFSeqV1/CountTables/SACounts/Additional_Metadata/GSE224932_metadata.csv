@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+2023/04/17,GSE224932,"Characterization of SigH, ComK1 and ComK2 regulons during competence development in Staphylococcus aureus","To investigate the central competence regulators (SigH, ComK1 and ComK2) regulons, wt and KO strains were grown to competence in CS2 medium. We then performed gene expression profiling analysis using data obtained from RNA-seq of these four strains (wt and 3 KOs) at one time point.",St29,CS2,NA,NA,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224932

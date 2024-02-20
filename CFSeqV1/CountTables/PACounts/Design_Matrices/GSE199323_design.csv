@@ -1,0 +1,16 @@
+Replicate,Treatment,Type
+1,control,lawn
+2,control,lawn
+3,control,lawn
+1,Tobramycin,pheonix_colony
+2,Tobramycin,pheonix_colony
+3,Tobramycin,pheonix_colony
+1,control,edge_zone
+2,control,edge_zone
+3,control,edge_zone
+1,control,outer_background
+2,control,outer_background
+3,control,outer_background
+1,Tobramycin,VBNC
+2,Tobramycin,VBNC
+3,Tobramycin,VBNC

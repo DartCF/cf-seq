@@ -1,0 +1,9 @@
+Replicate,Plasmid,treatment
+1,pAAHFDH1,IPTG+sodium_formate
+2,pAAHFDH1,IPTG+sodium_formate
+1,pAAHnox1,IPTG
+2,pAAHnox1,IPTG
+1,pSEVA634,IPTG
+2,pSEVA634,IPTG
+1,pSEVA634,IPTG+sodium_formate
+2,pSEVA634,IPTG+sodium_formate

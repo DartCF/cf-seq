@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+2022/09/01,GSE212319,"High resolution definition of the Staphylococcus aureus WalKR regulon [RNA-seq]","Here, we use a panel of defined walKR mutants and functional genomics including ChIP-seq to confirm a high-resolution consensus WalR DNA-binding motif and characterise a 61-gene direct regulon",USA300,TSB broth,NA,NA,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212319

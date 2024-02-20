@@ -1,0 +1,13 @@
+Replicate,Genotype,Treatment
+1,W,glucose
+2,WT,glucose
+3,WT,glucose
+1,WT,control
+2,WT,control
+3,WT,control
+1,arlRS_KO,glucose
+2,arlRS_KO,glucose
+3,arlRS_KO,glucose
+1,arlRS_KO,control
+2,arlRS_KO,control
+3,arlRS_KO,control

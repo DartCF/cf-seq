@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Species,Link
+2023/11/01,GSE246424,"Effect on gene expression of addition of N-acetylmannosamine to galactose grown Streptococcus pneumoniae.","RNA-seq analysis of N-acetylmannosamine upon growth and gene expression in pneumococci grown with galactose as sole sugar.",D39,CDM,N-acetylmannosamine,NA,Streptococcus pneumoniae,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246424

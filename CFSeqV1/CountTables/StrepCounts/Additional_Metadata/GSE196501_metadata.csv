@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Species,Link
+2022/06/29,GSE196501,"RNA-seq IU10991 vs IU1781","Here we analyze the transcriptomic profile of Streptococcus pneumoniae D39 Dspd_1448::KanrpsL (IU10991) vs Streptcococcus penumoiae D39 wt (IU1781) under anaerobic growth condition in BHI growth media",NA,BHI,NA,NA,Streptcococcus penumoiae,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE196501

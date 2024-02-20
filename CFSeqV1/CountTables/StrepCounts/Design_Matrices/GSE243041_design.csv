@@ -1,0 +1,17 @@
+Replicate,Genotype,Medium,Treatment
+1,WT,Sucrose+Maltose,Control
+2,WT,Sucrose+Maltose,Control
+1,RA,Sucrose+Maltose,Control
+2,RA,Sucrose+Maltose,Control
+1,WT,Sucrose,Control
+2,WT,Sucrose,Control
+1,RA,Sucrose,Control
+2,RA,Sucrose,Control
+1,WT,Sucrose,Novobiocin
+1,WT,Sucrose+Maltose,Novobiocin
+1,RA,Sucrose,Novobiocin
+1,RA,Sucrose+Maltose,Novobiocin
+2,WT,Sucrose,Novobiocin
+2,WT,Sucrose+Maltose,Novobiocin
+2,RA,Sucrose,Novobiocin
+2,RA,Sucrose+Maltose,Novobiocin

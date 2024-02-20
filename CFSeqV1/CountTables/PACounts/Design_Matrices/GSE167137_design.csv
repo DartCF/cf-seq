@@ -1,0 +1,17 @@
+Replicate,Culture,Treatment
+1,Mono,Control
+2,Mono,Control
+3,Mono,Control
+4,Mono,Control
+1,Mono,meropenem
+2,Mono,meropenem
+3,Mono,meropenem
+4,Mono,meropenem
+1,Coculture,control
+2,Coculture,control
+3,Coculture,control
+4,Coculture,control
+1,Coculture,meropenem
+2,Coculture,meropenem
+3,Coculture,meropenem
+4,Coculture,meropenem

@@ -1,0 +1,13 @@
+Replicate,Treatment,Time
+1,control,1h
+1,HTEpiC,1h
+1,control,3h
+1,HTEpiC,3h
+2,control,1h
+2,HTEpiC,1h
+2,control,3h
+2,HTEpiC,3h
+3,control,1h
+3,HTEpiC,1h
+3,control,3h
+3,HTEpiC,3h

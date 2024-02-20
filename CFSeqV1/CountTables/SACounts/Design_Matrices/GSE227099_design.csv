@@ -1,0 +1,12 @@
+Replicate,Treatment
+1,control
+1,oxacillin
+1,loratadine
+2,control
+2,oxacillin
+2,loratadine
+2,cotreated
+3,control
+3,oxacillin
+3,loratadine
+3,cotreated

@@ -1,0 +1,17 @@
+Replicate,Genotype,Treatment
+1,WT,iron_deplete
+2,WT,iron_deplete
+3,WT,iron_deplete
+4,WT,iron_deplete
+1,V3139,iron_deplete
+2,V3139,iron_deplete
+3,V3139,iron_deplete
+4,V3139,iron_deplete
+1,WT,iron_replete
+2,WT,iron_replete
+3,WT,iron_replete
+4,WT,iron_replete
+1,V3139,iron_replete
+2,V3139,iron_replete
+3,V3139,iron_replete
+4,V3139,iron_replete

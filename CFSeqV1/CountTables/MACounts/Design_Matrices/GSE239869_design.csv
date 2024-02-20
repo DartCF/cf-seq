@@ -1,0 +1,13 @@
+Replicate,Genotype,Morphotype
+1,WT,Smooth
+2,WT,Smooth
+3,WT,Smooth
+1,WT,Rough
+2,WT,Rough
+3,WT,Rough
+1,Lsr2_KO,Rough
+2,Lsr2_KO,Rough
+3,Lsr2_KO,Rough
+1,Lsr2_KO,Smooth
+2,Lsr2_KO,Smooth
+3,Lsr2_KO,Smooth

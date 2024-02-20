@@ -1,0 +1,13 @@
+Replicate,Genotype,Treatment
+1,empty,not_induced
+2,empty,not_induced
+3,empty,not_induced
+1,pit2,not_induced
+2,pit2,not_induced
+3,pit2,not_induced
+1,empty,induced
+2,empty,induced
+3,empty,induced
+1,pit2,induced
+2,pit2,induced
+3,pit2,induced

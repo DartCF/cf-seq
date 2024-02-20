@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Species,Link
+2023/02/08,GSE220579,"Transcriptome profiling of Burkholderia pseudomallei wildtype strain1026b and BP1026b_II1046::T4 insertion mutant","We identified BP1026b_II1046 (SapR) to be an important transcriptional regulator controling surface attachment factor 1 (sap1). RNA-seq analysis was performed to further investigate the regulatory network of SapR regulation.",1026b,LB broth,NA,SapR mutant,Burkholderia pseudomallei,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220579
