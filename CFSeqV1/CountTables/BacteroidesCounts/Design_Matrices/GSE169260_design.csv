@@ -1,0 +1,17 @@
+Replicate,Genotype,Treatment
+1,WT,iron_replete
+2,WT,iron_replete
+1,WT,iron_deplete
+2,WT,iron_deplete
+3,WT,iron_replete
+4,WT,iron_replete
+1,oxyR_mutant,iron_replete
+2,oxyR_mutant,iron_replete
+3,oxyR_mutant,iron_replete
+4,oxyR_mutant,iron_replete
+3,WT,iron_deplete
+4,WT,iron_deplete
+1,oxyR_mutant,iron_deplete
+2,oxyR_mutant,iron_deplete
+3,oxyR_mutant,iron_deplete
+4,oxyR_mutant,iron_deplete
