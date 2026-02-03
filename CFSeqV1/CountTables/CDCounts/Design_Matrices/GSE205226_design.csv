@@ -1,0 +1,13 @@
+Replicate,Genotype,Treatment
+1,WT,DSMO
+2,WT,DSMO
+3,WT,DSMO
+1,bapR,DSMO
+2,bapR,DSMO
+3,bapR,DSMO
+1,WT,LCA
+2,WT,LCA
+3,WT,LCA
+1,bapR,LCA
+2,bapR,LCA
+3,bapR,LCA
